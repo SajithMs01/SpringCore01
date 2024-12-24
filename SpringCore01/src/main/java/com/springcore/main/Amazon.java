@@ -8,7 +8,7 @@ public class Amazon {
 	private DeliveryService service;
 
 	static {
-		System.out.println("Class Amazon is loaded");
+		System.out.println("Class A Amazon is loaded");
 	}
 
 	public Amazon(DeliveryService service) {
